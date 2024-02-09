@@ -1,0 +1,2924 @@
+Text,Name,Email,Experience,TechnicalSkills
+"AYHAN KAYA
+SOFTWARE DEVELOPMENT
+ENGINEER İN TEST +90-553-795-4919
+ 
+ayhnkya09@gmail.com
+ 
+ Turkey
+ 
+www.linkedin.com/in/ayhnkaya
+ 
+ 
+PROFILESoftware development engineer in test  with thorough hands-on
+experience in all levels of testing including 
+UI/DB/API testing.
+ABOUT ME
+Full-Stack SDET/QA Automation Engineer  experience with
+extensively worked on Manual and Automation Testing of Web
+Applications, API, and Database.
+Solid knowledge and implementation skills in complete Software
+Development Life Cycle (SDLC) and Software Testing Life Cycle
+(STLC) including Agile (Scrum) methodologies.
+Experienced in   preparing Test Strategies, Test Scenarios, Test Cases,
+and Test Scripts for Hybrid Framework with  BDD(Behavior Driven
+Development) Framework and TDD (Test Driven Development ) using
+Cucumber and Gherkin Language.
+Effectively creating Automation Frameworks using Java, Selenium
+WebDriver, JUnit, TestNG, Cucumber, Maven, Page Object Model
+(POM), IntelliJ, Apache POI, JDBC, SQL Developer, Selenium Grid,
+RESTAssured, Postman, Jenkins, Jira, Git, and GitHub. 
+Developed in Back-End Testing, API using Postman/ REST-Assured
+Library. Experienced in Database Testing using JDBC and SQL Queries
+in various Relational Database Management Systems (RDBMS) such
+as MySQL and Oracle Database servers. 
+Solid knowledge in Core Java programming skills including Object-
+Oriented Programming (OOP) concepts, Collections, Data Structures,
+String Manipulation, and Exception Handling. 
+Effectively using Jenkins as a Continuous Integration (CI) tool for the
+project and experience in Jenkins and Selenium Grid on an AWS
+Virtual Machine (VM) for executing the Smoke and Regression Tests
+and generate HTML and Cucumber reports for sending an email.
+Thinking out of box, analytical problem-solving mindset, quick learner,
+excellent communication, team collaboration, organization and
+management skills,  SKILLSEXPERIENCE
+EDUCATION
+Manual and Automation Testing/ SDET/ Test Automation coding
+school focused on Test Automation, Full Stack Development, DevOps,
+and RPA in the USA. Completed over 1000+ hours of full-time course
+instruction, project, and work experience in the industry.Cydeo 01/2022-08/2022
+Turaf University (Istanbul)
+Electric and Electronics Engineering (2004-2008) Analyzed the Requirements and developed the Test Plan and the Test
+Strategy. Hands-on experience in writing Test Cases from User Stories.
+Designed and created Manual and Automated Tests, Executed Tests
+Scripts using Java, Maven, Selenium WebDriver, Gauge framework and
+Jira X-Ray. 
+ Execute API  Tests with using Postman and  JSON. 
+ Execute Mobile Testing with Appium
+ Regression Testing and Smoke Testing using Git
+Experience in writing Test Cases from User Stories. Designed and
+created Manual and Automated Tests, Executed Tests Scripts using
+Java, Maven, Selenium WebDriver, Cucumber, JUnit, Page Object
+Model, and Jira X-Ray. 
+ Execute API and Database Tests  with using Java, Maven, Junit, TestNG,
+RestAssured Library, JDBC Library, and JSON.   
+Responsible for 3-point verification in terms of UI-Database-API Testing.
+Implemented GUI Test with Hybrid Framework support DDT and BDD 
+ and POM using Java-Maven-Selenium WebDriver with Cucumber. 
+Responsible for executing both API and Database Tests using Java,
+Maven, Junit, TestNG, RestAssured Library, JDBC Library, JSON, 
+ Postman and SQL Developer.
+Attending all Agile-Scrum ceremonies.
+Performed Manual Tests for Web and mobile applications
+Skills: Manual Testing, UI Testing, Quality Assurance, Functional Testing.Testinium.com
+Ligastovak/Ligabet (10/2022-Present) 
+SDET /Test Automation Engineer /QA
+Cydeo 
+Locaper (06/2022-10/2022) 
+SDET /Test Automation Engineer 
+Cydeo
+ Izlogy (01/2022-06/2022) 
+SDET /Test Automation Engineer 
+Pixel Electronics (2019-2022)
+QA Engineer
+Motkonsis Automation (2008-2019)
+ Industrial Automation Engineer 
+Selenium WebDriver, TestNG, JUnit, Cucumber, Rest Assured, JDBC,
+Java, HTML, SQL, Gherkin, IntelliJ, Postman, Oracle, MySQL, Maven,
+Git, Github, Agile/Scrum, Jenkins, Jira, Jira-Xray, SDLC, STLC, AWS
+EC2, Smoke Testing, Regression Testing, Appium, End-To-End
+Testing ",Jira-Xray,,,['json']
+"1 | P a g e  
+ Amir Abdollahian  
+No. 74, Unit 3, 523 Street, Phase 4, Mehrshar, Alborz, Iran ｜+98 (912) 468 -5019 
+abdollahian61@gmail.com  | Skype Id: abdollahian61_1  | LinkedIn ID: amir-abdollahian -67a81630  
+ 
+Professional   Highlights  
+• Accomplished DevOps Engineer and Team Lead with an extensive history of success in 
+designing, implementing, and managing complex IT infrastructure projects.  
+• Proficient in AWS and Azure architecture solutions, encompassing design, implementation, and 
+management of cloud -based infrastructure.  
+• Highly skilled in administering various Linux distributions, including RedHat and Debian, for 
+server management and deployment.  
+• Skilled in utilizing GitLab and Jenkins for continuous integration and Argo CD for continuous 
+deployment, resulting in efficient and effective software delivery.  
+• Experienced in implementing multi -data center load distribution and cluster implementation of 
+databa ses such as MongoDB and ELK for high availability and disaster recovery.  
+• Adept in Kubernetes and Docker for microservice implementation, including container 
+orchestration, deployment, and management.  
+• Holder of VCP and VCAP certifications, demonstrating exp ertise in VMware virtualization and 
+cloud infrastructure management.  
+• Proven ability to troubleshoot and resolve security issues, including identifying and mitigating 
+security vulnerabilities and implementing security best practices.  
+ 
+PROFESSIONAL EXPERIENC E 
+Devops team lead                                                                                                        Sep 2020 to Present   
+Vasl, Tehran  
+• Successfully  Implemented over 1200 machines with various Linux distributions, achieving 
+maximum stability with 20K TPS through Kubernetes and simultaneous implementation of 
+services in multiple data centers.  
+• Managed operational infrastructures through clustering at the operating system and virtual 
+machine levels, resulting in the highest prod uctivity in operational systems according to the 
+amount of IOPS.  
+• Established and maintained Kubernetes Cluster with Kubeadm in over 230 VMs, as well as ELK 
+Cluster, MongoDB Cluster, Redis Cluster, PostgreSQL Cluster, Kafka Cluster, Click House, and 
+other d atabase Clusters.  
+• Implemented CI using GitLab and Jenkins, and CD using GitLab Runner and Argocd.  
+• Implemented monitoring solutions using Zabbix, Prometheus, Grafana, Loki, and Skooners tools 
+for servers and Kubernetes . 2 | P a g e  
+ Some Projects:  
+• E-Government Project ( iranman.gov.ir, myiran.gov.ir, etc.) - DevOps Team Lead  
+• CNG Project - DevOps Team Lead  
+• Myiran Project (my.gov.ir) - DevOps Team Lead  
+• Irangov Project (iran.gov.ir) - DevOps Team Lead  
+• Ministry of Health (omid.gov.ir) Project - DevOps Team Lead  
+• IranCell Yello hub Project - DevOps Team Lead  
+• Various large -scale projects  
+Some of these projec ts have had up to 20k TPS and more than 4 billion requests per year, the details of 
+which are not mentioned for confidentiality reasons.  
+ 
+Devops Engeener                                                                                                  Agu 2021 to Present   
+Hincebio Tech, South Korea  
+• Installed, maintained, and configured servers for optimal performance and security.  
+• Collaborated with cross -functional teams to implement code on operational servers and modify 
+infrastructure as needed.  
+• Worked with programmers from different countries to ensure smooth project delive ry. 
+• Utilized AWS and Hetzner services to implement projects.  
+Some Projects:  
+• Vixtalk chat: Designed and implemented a secure chat application using AWS services.  
+• Noseswap.app: Collaborated with a cross -functional team to launch a decentralized exchange 
+platform.  
+• Coinnewsmarket.app: Developed and launched a news aggregator platform for cryptocurrency 
+news.  
+• ERC20 Coin: Contributed to the development of an ERC20 token on the Ethereum blockchain.  
+• Cyberchain Coin: Worked  with a team to launch a new c ryptocurrency on the Binance Smart Chain.  
+ 
+Devops team lead & Manager of Parssign CA( Certificate Authority)               Jun 2016 to Sep 2020  
+Amnafzar gostar Shrif And Hovita , Tehran  
+• Started and implemented many national projects in the field of PKI at Hovita Company and 
+Parsain Digital Certificate Intermediate Center  
+• Utilized GitLab, Je nkins, Docker, OpenKm, Jira, and other tools to implement these projects  
+• Managed Datacenter using  VMWare tools including Vcenter, Vsan, and Esxi  
+Some Projects:  3 | P a g e  
+ • Project manager and Support Manager for PKI MCI  
+• Project manager and Support Manager for Bours Organization CA  
+• Support Manager at Hovita Company  
+• Manager of Pars Sign CA Center  
+• Implemented many national projects for the Minister of Public Key Construction  
+• Set up servers and pipeline infrastructure for CI/CD software products  
+ 
+Senior Technical Specialist  and Project Manager                                          Oct 2014  to  Jun 2016  
+Shabakeh Afzar, Tehran  
+• Managed  multiple LAN, WAN, and data center projects, including implementing RTLS and 
+handheld/RIFD equipment.  
+• Supervised a team of Linux SREs responsible for the design, implementation, and maintenance 
+of Linux -based systems and applications, ensuring high availability and performance.  
+• Led LAN,  WAN, and data center projects for Nirogah Hospital, Pardisan University, and 
+Forghani Hospital, delivering robust and reliable network infrastructures for critical systems and 
+applications.  
+• Collaborated with cross -functional teams and clients to deliver  solutions on -time and within 
+budget.  
+• Proactively managed risks and resolved issues to ensure successful project outcomes.  
+ 
+Senior Technical Specialist                                                                                    Jun 2005 to Oct 2014  
+Eidco, Tehran  
+• Managed a team of Linux SREs responsible for the design, implementation, and maintenance of 
+highly available and scalable Linux -based systems and applications.  
+• Contributed to the authorship of practical educational Microsoft books and was a member of the 
+ICT TNHCO team, promoting innovation and knowledge -sharing.  
+• Served as an advisor for Stare Hedayat, Techno Informatics Company, and IT Developers 
+company, providing strategic guidance and technical expertise . 
+Technical Specialist                                                                                                May  2004 to  Jun 2005  
+Jahangostar, Tehran  
+• Conducted technical assessments and provided technical support for LAN and WAN networks at 
+Jahangostar and Hatratech.  
+• Conducted technical assessments for LAN network projects at Tehran University, Azad Karaj 
+University, Azad Najaf Abad University,  Iran Mehr ISP, and Horshid ISP, identifying areas for 
+improvement and implementing network upgrades.  
+• Troubleshot network issues and delivered effective solutions for LAN and WAN network 
+projects at Azad Karaj University and Horshid ISP.  4 | P a g e  
+  
+Technical Expert                                                                                                  Sep 2002 to Apr 2004  
+Hatratech, Tehran  
+• Conducted a technical assessment for a LAN & WAN network project at Iran Mehr ISP, 
+identifying areas for improvement and implementing network upgrades.  
+• Conducted a technical assessment for a LAN & WAN network project at Horshid ISP, 
+troubleshooting network  issues and delivering effective solutions.  
+ 
+Education  
+• Bachelor in Software Engineering Technology                          Sep2004 to Feb 2008  
+• Iran Islamic Azad University in Karaj  
+ 
+Description of some internal educations  
+•  Completed AWS Practitioner and AWS Architecture Solution courses offered by Alibizmark  
+• Completed Azure Practitioner and Azure Architecture Solution courses offered by Ali bizmark  
+• Obtained CCNP and CCNP international certification and CCNA from Systemyar Company  
+• Obtained MCITP certification from Systemyar Company  
+• Completed ITA942 certification course offered by Samin Rayaneh Institute  
+• Completed BMBOK certification course offered by Samin Rayaneh Institute  
+• Completed ITIL certification course offered by Samin Rayaneh Institute  
+• Obtained PKI certification from Amnafza r Sharif Company  
+• Docker and Kubernetes certifications Administrator (CKA)  through Anisa  
+• Learned DevOps and RancherOS  through B9t courses  
+Self-Study:  
+• Learned various DevOps tools such as argocd , Ansible, Docker, Kafka, Jfrog, Ceph, …  
+• Learned Prometheus and other tools for Microservice development  
+• Learned Bash script and Python  
+• Completed LPIC1 and LPIC2 certifications through self -study  
+• Completed VCP and VCAP  certifications through self -study  
+Overall, I have gained a wide range of technical skills through both internal education and self -study, 
+allowing me to be proficient in various areas of IT.  
+ 
+Achievements  5 | P a g e  
+ • Designed an d implemented highly available and scalable web architectures with Kubernetes on 
+AWS and Azure.  
+• Migrated monolithic applications to microservices using Kubernetes, improving deployment 
+times and fault tolerance, and enabling seamless scaling across mult iple data centers.  
+• Conducted multi -datacenter implementation of databases like MongoDB and ELK, ensuring high 
+availability and disaster recovery across multiple cloud providers.  
+• Optimized cloud resources to reduce costs while maintaining high availab ility and performance.  
+• Implemented infrastructure -as-code solutions with Terraform and CloudFormation for faster and 
+more consistent infrastructure provisioning, enabling rapid scaling of infrastructure.  
+• Developed and implemented a CI/CD pipeline wit h GitLab CI/CD and Docker for faster and 
+more reliable deployments, enabling rapid scaling of deployments.  
+• Conducted security audits and implemented a secure -by-default policy across all systems, 
+ensuring data protection and compliance across multiple d ata centers.  
+• Streamlined deployment for complex multi -tier applications, reducing deployment time and 
+increasing reliability.  
+• Led adoption of DevOps best practices and mentored team members on agile methodologies, 
+improving collaboration, productivit y, and code quality across multiple data centers and cloud 
+providers.  
+Attention  
+ Personal and confidential projects are not included in the resume to preserve information     
+ 
+Skills  
+• Cloud Platforms: AWS, Azure, Kubernetes on EKS and AKS  
+• Containerization: Docker, Kubernetes, Docker Swarm  
+• Infrastructure -as-Code: Terraform, CloudFormation  
+• Configuration Management: Ansible, Puppet  
+• CI/CD Tools: CircleCI, Argocd, GitLab CI/CD, Jenkins  
+• Log Management: ELK Stack, Graylog, Loki  
+• Metrics Collection: Prometheus, Zabbix  
+• Security Tools: Vault, Keycloak , OpenLDAP, OAuth2, HashiCorp Consul  
+• Programming Languages: Python, Bash  
+• Version Control: Git, GitHub  
+• Database Clustering: MySQL, Oracle, MongoDB, Elasticsearch, ClickHouse  
+• Storage: Ceph, Minio, Longhorn, NFS  
+• Virtualization: VMware ESXI, vCenter, Veeam Bac kup 
+• Networking: NAT, SNMP, SYSLOG, NTP, DHCP, CDP, DNS, HTTP, TFTP, FTP  
+• Routing: Static Routing, RIPv2, OSPF, MPLS VPN  
+• Firewalls: Cisco ASA, Linux IPtables, Parsgate  
+• Agile Methodologies: Scrum, Kanban  
+• Project Management Tools: Trello, Jira  6 | P a g e  
+ • Collaboration To ols: Slack, Microsoft Teams, Confluence, Mattermost  
+• Operating Systems: Windows, Red Hat, Debian, Rancher OS  
+• Soft Skills: Effective Communication, Strong Interpersonal Skills, Quick Learning, Creativity 
+and Enthusiasm  
+  Languages  
+•   Advanced level of Persian  
+•   Advanced level of English ( I Prove  it to Excellent)  
+ Hobbies  
+• Traveling, swimming, listening to music and podcasts.  
+• Exploring IT innovations and staying current with technology trends.  ",Debian,,,"['mongodb', 'monitoring', 'aws', 'blockchain', 'c', 'gitlab', 'r', 'aws', 'microservices', 'mongodb']"
+"Ayupov Timur 
+12 may 1983  
+Address: Antalya, Turkey Mobile: +90 5346 087 968 Email: aupovtr@gmail.com  
+ 
+Personal Profile Statement 
+A motivated, adaptable and responsible Computer graduate seeking a position o f senior developer, which 
+will utilize the professional and the technical skills developed through past work experiences in this field. I have 
+methodical, customer-focused approach of work, a strong drive to see things through to complet ion and height 
+problem solving skill. In my current job, all projects were successfu l, completed in time, within budget and 
+corresponded to the wishes of the customer. 
+ 
+Achievements 
+ Developed and implemented Universal Payment Service, which increased company income by 7%. 
+ Developed and implemented systems with zero down time and zero data  loss. 
+ Most valuable employee of the year. 
+ Developed and implemented Information Consolidation Application first step to simulation modeling 
+and deep data analysis. 
+ Two Patents. 
+ Three Letter of thanks. 
+ 
+Employment 
+2022 -Present  Architect / Senior .net developer at Provectus  
+ Architecting and Developing cloud based microservice solutions. 
+ Transforming legacy monolith(backend and frontend) to up to date s olutions. 
+ Developing automatic services and infrastructure deployment processes 
+ Consumer needs analysis 
+ 
+2020 - 2022    Team Lead / Senior .net developer at CIT RT (state organization ) 
+ Architecture government services system using microservice approach. 
+ Transformed legacy monolith to services\microservices  
+ Team Leading activities. 
+ Mentored and trained junior developers. 
+ 
+2017 - 2020 at Eqvanta (banking and finances) 
+ Developed and implemented banking service major applications. 
+ Mentored and trained junior developers. 
+ Kept up to date with the latest technologies 
+ Applications architectural planning 
+ 
+2010 -2017 Middle .net developer at PAO Moscow Helicopter Plant (heavy engineering) 
+ Developed and implemented major applications. 
+ Consolidated all necessary information about replaceable parts, orders in formation and knowledge 
+threads in single application. 
+ Kept up to date with the latest technologies 
+ Applications architectural planning  
+2007 -2010 IT Support Officer/It Security Officer at Rostechnadzor for the Volga Federation Dist rict (state 
+organization) 
+ Led the team of system administrators 
+ Installed and configured server information security applications 
+ Installed and configured computer hardware, operating systems and appli cations 
+ Monitored and maintained computer systems and networks 
+ Created the network architecture  
+ 
+2005 -2007 IT Support Officer/It Security Officer at FSUE ""Federal Research and Production Center 
+""Radioelectronics"" (heavy engineering) 
+ Installed and configured server information security applications 
+ Installed and configured computer hardware, operating systems and appli cations 
+ Monitored and maintained computer systems and networks 
+ Created the network architecture  
+ 
+2002 -2005 IT Admin at Infoservice LLC  (information technology, system integration, internet) 
+ Installed and configured server information security applications 
+ Installed and configured computer hardware, operating systems and appli cations 
+ Maintained the computer network and information systems 
+ 
+Education 
+ 2019  Developing Windows Azure Services and web services - (20487) 
+ 2012  Finished Postgraduate studies at KGTU A.N. Tupolev (KAI) 
+ 2010  Information security in corporation networks 
+ 2009  Information security for state secrets 
+ 2007  Legal bases of civil service 
+ 2006  Information security for Windows server systems 
+ 2008  - 2010 Information Security lecturer at KGTU A.N. Tupolev (KAI) 
+ 2006  Finished University KGTU A.N. Tupolev (KAI) Information Technology  Engineer diploma. 
+ 
+Skills 
+ Excellent knowledge of C#, .net Core, different .net Frameworks and Libraries 
+ English level - Upper Intermediate 
+ UNITY developer since 2016  
+ Good knowledge of Js (ReactJs, Ext Js), T-SQL, TypeScript 
+ Data Base experience: Ms SQL, PostgreSql, My SQL, MongoDb 
+ Also used: AWS, Azure, RabbitMQ, Redis, Elastic Search 
+ Strong troubleshooting skills with software 
+ Now learning: Python, Bicep 
+  
+ 
+References: available upon request. ",Strong,,,"['.net', '.net', '.net', 'c']"
+"Summary  
+Senior Software  Developer specializing in  backend and  frontend development. 
+Experienced with all stages of the development cycle for dynamic web projects. 
+Well -versed in numerous programming languages including .Net/C#, Dev 
+Express , PHP,  Yii Framework, Laravel, Phalcon,  OOP, JS, CSS,  NodeJS,  MSSQL, 
+Postgresql , MySQL , MongoDB . Strong background in project management and 
+customer relations.  The best experience point is payment systems and they are; 
+Virtual Pos, Payment Facilities and Direct Carrier Billing.  I am also keen on game 
+development in Unity and try to make my own games in my spare time.  
+Skill Highlights  
+✓ Project management  
+✓ Strong decision maker  
+✓ Complex problem solver  ✓ Practical  
+✓ Innovative  
+✓ Service -focused  
+Experience  
+Game Developer  - 01/2022 - Now  
+My Own Job  
+• I develop  mobile games under named Gia Games in Unity . 
+ 
+Senior Software Developer  - 03/2020 – 11/2022 
+Dgpays – Istanbul /Remote  
+• I have been working  in several projects as Senior Software Developer in 
+the software team for Dgpays.  
+• I have managed  development process like code review, devops, 
+customer support.  
+• Experiences; .Net,  EF, MSSQL, Postgre SQL, DevExpress,  RabbitMQ, 
+Redis, Windows Server, MassTransit, Ocelot, Graylog, Ubuntu . 
+• The company  has been develop ing projects to payment industry  
+Freelance Software Development Consultant  – 08/2020 – 10/2021  
+Kolektif House – Istanbul/Remote  
+• I worked  as consultant about internal development process.  
+• Expirences; Wordpress, PHP, Yii Framework,  Laravel,  MySQL, .Net 
+Framework, MSSQL , MongoDB , VMWare ESXi, Microsoft Dynamics 
+CRM . 
+Senior Software Developer  - 10/2016 – 03/2020  
+Payguru - Istanbul  
+• I worked as Software Developer.  
+• Experiences; PHP, Postgresql, Redis, Ubuntu.  
+• The company was payment institution.  
+• It had been developing Direct Carrier Billing solutions under mobile 
+operators.  
+• I also had worked as system administrator, DB administrator for long 
+times  
+  01.12.2022  
+ERDINC  
+KARAMAN  
+Informations  
+Birthday:  
+13 September 1991  
+ 
+Address:  
+Bornova - IZMIR  
+ 
+Phone:  
++90543 337 9967   
+ 
+Email:  
+info@erdinckaraman.com  
+erdinc.karaman@yandex.com  
+Languages  
+English  – B2->C1 
+ 
+  ERDINC  
+KARAMAN  Experience  
+ 
+Junior Software  Developer  - 03/2015 to 10/201 6 
+Mobildev , Istanbul  
+• I worked as Junior Software Developer.  
+• Expirences; PHP, Yii2 Framework, MySQL, Python, Redis, Ubuntu . 
+• The company was producing value -added service products . 
+• It had been developing Bulk SMS Sending, Direct Carrier Billing and 
+Virtual Pos solutions.  
+• I also continued to developing VASPirin tasks. Because Mobildev and 
+VASPirin were a partner company . 
+ 
+Junior Software  Developer  - 05/201 4 to 03/201 5 
+VASPirin , Istanbul  
+• I worked as Junior Web  Developer.  
+• Expirences; PHP, Yii Framework, MySQL, Centos.  
+• The company was producing value -added service products.  
+• It had been developing Coupon, Loyalty and Direct Carrier Billing 
+solutions.  
+ 
+Education  
+• Vocational School : Computer Inf ormation Systems - 2014  
+Gaziosman Pasha  University , Tokat/Turkey  
+ 
+ 
+Certifications  
+• Javascript & NodeJS  – Udemy – 01/2019  
+• Android Mobile Application Cource -  Udemy – 10/2019  
+• ASP.NET MVC Framework  – Udemy – 05/2020  
+• ASP.NET Core Web API  – Udemy – 08/2020  
+• ASP.NET Core MVC/API 3.1  – Udemy – 09/2020  
+• C# Application Development – Udemy – 01/2021  
+• C# Xamarin Mobile Apps – Udemy – 02/2021  
+• Unity 2D & 3D Game Development – Udemy – 03/2021  
+• Unity Multiplayer Game Development with Firebase – Udemy – 
+04/2021  
+• Unity To Be Game Developer – Udemy – 12/2021  
+• Unity Professional Level Mobile Game Development – Udemy – 
+01/2022  
+• Blender Beginner to Professional 3D Model Course – Udemy – 
+05/2022  
+• Unity 2D&3D Beginner to Professional Game Development – 
+Udemy  – Continue  
+  ERDINC  
+KARAMAN   
+Expirences  
+✓ C#, PHP, Python, Java, Javascript, Kotlin  
+✓ .NET, ASP.NET Framework, Yii2, Laravel, NodeJS  
+✓ MVC, Microservices, WebApi, RESTful, SOAP, SignalR, Ocelot, MassTransit, 
+Hangfire  
+✓ MSSQL, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ  
+✓ CSS, HTML, JQuery, DevExtrem e 
+✓ Windows Server, Ubuntu, Nginx, Apache, IIS, , Gitlab, Atlassian Products  
+✓ AWS, GCP, Azure  
+✓ Fortigate, PFSense  
+✓ Unity  
+Links  
+erdinckaraman.com  
+giagames.co  
+github.com/hayalpc  
+linkedi n/erdinc -karaman -57962245  
+ ",✓ Fortigate,,,"['.net', 'c', 'devops', 'mysql', 'mongodb', 'c', 'c', 'unity', 'c']"
+"Ahmet Ümit
+ÇALIŞKAN 
+Data Scientist 
+ahmetumitcaliskan@gmail.com 
++905061597868 
+Istanbul, Turkey 
+github.com/aumitcaliskan 
+Strong statistics and theory background, performing data analysis, predictive modeling and visualization. Experienced in mining, wrangling and
+analyzing complex, high-volume and high-dimensional data from varying resources. Built machine learning and deep learning models. Proﬁcient in
+deploying models and capable of natural language processing. Highly motivated and self-starter with eﬀective communication, organizational and
+leadership skills. 
+CAREER EXPERIENCE 
+Data Scientist 
+UPayments 
+11/2021 - Present
+, 
+ 
+Sharq, Kuwait 
+Extracted data with MySQL, analyzed datasets and
+recommended optimized solutions. 
+Designed live dashboards with Tableau. 
+Built time-series models with SARIMAX and Holt-Winters in
+Statsmodels Python library to forecast KPIs. 
+Data Scientist 
+Dream Ventures & Innovation Corp. 
+03/2020 - 11/2021
+, 
+ 
+Santa Clara, CA 
+Developed machine learning and deep learning models to
+provide industrial solutions in marketing. 
+Organized and conducted machine learning pipeline, with a
+focus on data preparation, model training and optimization,
+successfully used visualization techniques to inform and give
+intuitions to stakeholders. 
+Discovered patterns, formulated and tested hypotheses,
+translated results into strategies which drive growth resulting
+in increased revenues and improved customer satisfaction. 
+Data Scientist 
+Freelance 
+03/2018 - 03/2020
+, 
+ 
+Kocaeli,Turkey 
+Extracted data with SQL queries and identify granularity issues
+and relationships between datasets and solutions. 
+Performed exploratory data analysis and feature engineering
+to ﬁt best machine learning models. 
+Cleaned and organized data using Numpy, Pandas, Scipy and
+Scikit-Learn Python libraries. 
+Visualized data with Matplotlib, Seaborn and Power BI. 
+Senior Electronics/ IT Manager 
+Turkish Naval Forces 
+09/2012 - 03/2018
+, 
+ 
+Turkey 
+Analyzed the statistics of historical ﬁre exercises and
+generated a database. Optimized and remodeled systems. 
+Involved in various systems’ setup and deployment. 
+EDUCATION 
+Master's Degree in Big Data and Business
+Analytics 
+Istanbul Technical University 
+09/2022 - Present
+, 
+ 
+TECHNICAL PROFICIENCIES 
+Python 
+SQL 
+Power BI 
+Tableau 
+Streamlit 
+Statsmodels 
+Numpy 
+Pandas 
+Scipy 
+Seaborn 
+Matplotlib 
+Scikit-Learn 
+TensorFlow 
+Keras 
+NLTK 
+SpaCy 
+Pyomo 
+Pulp 
+Git 
+Pyspark 
+PROJECTS 
+Live Dashboard with Tableau
+ (04/2022 - 06/2022)
+ 
+Performed SQL data analysis with MySQL. 
+Developed executive KPI reports and dashboards using Tableau Server. 
+Forecasting KPIs (01/2022 - 03/2022) 
+Extracted data and transformed into daily, weekly and monthly data. 
+Built SARIMAX and Holt-Winters models to forecast KPIs. 
+In Season Price/Promo Optimization
+ (06/2021 - 11/2021)
+ 
+Conﬁgurated the problem to maximize gross margin.
+ 
+Performed Pyomo, Pulp, OR-tools, SCIP and Gurobi models; measured
+deﬁning metrics adoption and yield measurement. 
+Marketing Analysis
+ (10/2020 - 03/2021)
+ 
+Explored the aspects that inﬂuence the forecast of client subscription
+and churn.
+ 
+Feature engineered, handled missing values and created new features.
+ 
+Applied ANOVA, chi-square statistical tests to select the most signiﬁcant
+features to decrease complexity and increase robustness of the model. 
+Created diﬀerent classiﬁcation models; compared model performances,
+and adjusted hyper-parameters to obtain improved outcomes. 
+Car Price Prediction
+ (04/2020 - 08/2020)
+ 
+Analysed the data and handled missing values. 
+Developed diﬀerent regression models. 
+Evaluated model performances and adjusted hyper-parameters. 
+Deployed the model with Streamlit on AWS EC-2. 
+PROFESSIONAL DEVELOPMENT 
+The Complete SQL Bootcamp 
+Udemy 
+Data Visualization with Tableau 
+University of California, Davis 
+Machine Learning 
+Stanford University 
+Deep Learning 
+DeepLearning.AI
+ 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Turkish 
+Native or Bilingual Proﬁciency 
+Created live dashboards and prediction models. 
+Executed and contributed to machine learning projects 
+Provided analysis and recommendations. 
+Demonstrated exceptional technical support and guidance. ",Machine Learning,,,[]
+"(90)
+552-811-4096
+yahyaarbabi
+@gmail.
+com
+github.com/theyahya
+Yahya
+SayadArbabi
+Golang
+Software
+Engineer
+SKILLS
+Golang
+Advanced
+MySql/Postgresql
+Advanced 
+Python/Django
+Docker/k8s
+Microservice
+architecture 
+GCP
+Intermediate
+Intermediate
+Advanced
+Intermediate
+RabbitMQ
+MongoDB/RethinkDB
+Elasticsearch
+Familiar
+Intermediate
+Intermediate
+EXPERIENCE
+Paack
+,
+Barcelona
+—
+Senior
+Backend
+Engineer
+(Golang)
+Sep
+2021
+-
+Now
+P aack
+off ers
+last-mile
+and
+mid-mile
+deliv eries
+for
+e-commer ce
+and
+r etailers,
+pr o viding
+scheduled
+same-da y
+and
+next-da y
+deliv eries
+with
+a
+ﬂexible
+choice
+of
+cust omer-tailor ed
+time
+slots.
+I
+ha v e
+been
+developing
+scalable
+cloud
+native
+Golang
+microservices
+with
+Clean/DDD
+architecture.
+●
+I've
+been
+involved
+in
+designing
+and
+developing
+the
+tracking
+service
+which
+has
+been
+scaling
+to
+hundreds
+of
+requests
+per
+seconds.
+○
+We
+improved
+retailers'
+onboarding
+process
+with
+the
+tracking
+being
+easy
+and
+fully
+configurable.
+○
+We
+provide
+scalable
+integration
+solutions
+for
+retailers
+like
+Amazon,
+Alibaba
+Express,
+H&M,
+Mango
+and
+Media
+Market.
+○
+Also
+It's
+improved
+profitability
+as
+we
+were
+able
+to
+service
+unlimited
+new
+customers.
+●
+In
+Paack,
+I
+also
+worked
+on
+decoupling
+features
+from
+the
+legacy
+application
+into
+new
+cloud
+native
+architecture.
+●
+Successfully
+developed
+inside
+libraries
+which
+helped
+with
+code
+maintenance
+of
+our
+microservices
+and
+improved
+developer
+productivity.
+Netbina
+,
+Tehran
+—
+Software
+engineer
+(Golang)
+Sep
+2019
+-
+Sep
+2021
+As
+the
+lead
+engineer
+of
+our
+technical
+team,
+I'm
+responsible
+for
+managing
+our
+programmers
+toward
+their
+tasks
+and
+helping
+them
+with
+any
+new
+challenge
+they
+face.
+Also
+providing
+new
+knowledge
+about
+the
+technologies
+that
+we
+need
+to
+use
+here
+for
+everyone
+to
+feel
+comfortable
+using
+them
+and
+moving
+forward.
+I'm
+working
+on
+many
+different
+part
+of
+our
+software
+systems
+here:
+●
+Designing
+and
+developing
+the
+monitoring
+service
+which
+has
+been
+scaling
+to
+hundreds
+of
+requests
+per
+seconds.
+●
+Successfully
+finished
+decoupling
+features
+from
+the
+legacy
+application
+into
+new
+microservice
+architecture.
+●
+Successfully
+developed
+a
+dozen
+of
+inside
+libraries
+which
+helped
+with
+code
+maintenance
+of
+hundreds
+of
+microservices
+and
+improved
+our
+software
+developers
+productivity.
+HUB
+Accelerator
+,
+Tehran
+—
+Backend
+Developer
+Aug
+2018
+-
+Jun
+2019
+HUB
+is
+a
+company
+envisioned
+to
+orchestrate
+the
+digital
+innovation
+ecosystem
+to
+deliver
+an
+improved
+digital
+experience
+to
+end
+users.
+My
+accomplishments
+at
+HUB:
+●
+Technical
+evaluation
+of
+many
+startups
+which
+were
+applying
+for
+seed
+investment.
+Yahya
+SayadArbabi
+Page
+1
+of
+2
+●
+Successfully
+helped
+startups
+to
+fix
+their
+scaling
+issues
+and
+also
+pick
+the
+right
+technical
+approach
+on
+their
+product
+development.
+●
+Successfully
+developed
+Mcihub
+management
+system
+for
+the
+working
+space
+and
+accelerator.
+Eghamat24
+,
+Mashhad
+—
+Backend
+Developer
+Jan
+2018
+-
+Sep
+2018 
+A
+National
+Reservation
+center,
+has
+started
+to
+work
+since
+2007
+and
+has
+provided
+services
+to
+more
+than
+one
+million
+people.
+Responsibilities:
+●
+Implement
+part
+of
+microservices
+architecture
+and
+reduce
+deployment
+cost
+by
+improving
+performance
+in
+non-efficient
+parts
+of
+the
+system.
+●
+Developed
+an
+online
+browser
+based
+game.
+Open-source,
+Freelance
+2012
+-
+Present 
+In
+my
+spare
+time
+I
+worked
+on
+different
+profit/non-profit
+projects.
+●
+Shrug
+-
+A
+url
+shortener
+with
+Golang
+and
+DDD
+architecture
+○
+Golang,
+React,
+Postgres,
+Redis
+●
+Beytha
+-
+Persian
+poems
+directory
+○
+CodeIgniter,
+Mysql,
+Bootstrap
+●
+Ghesarha
+-
+Quotes
+social
+network
+○
+CodeIgniter,
+Mysql
+●
+Sherlock
+/
+Enola
+-
+Find
+usernames
+across
+social
+networks,
+(The
+Project
+was
+trended
+globally
+in
+github
+explorer
+for
+2
+weeks
+In
+Feb
+2019)
+○
+Python,
+Scrapping,
+Docker
+●
+PersianJs
+-
+A
+simple
+library
+for
+Persian
+language
+localization
+○
+Javascript
+●
+TheWhite
+-
+Minimal
+&
+light
+wordpress
+theme
+○
+PHP,
+Wordpress
+And
+a
+Long
+list
+of
+not
+published
+side-projects!
+EDUCATION
+●
+BSc.
+in
+Software
+Engineering
+from
+Mashhad
+Payam-e
+Nour
+University
+CONTACT
+GitHub:
+theyahya
+Linkedin:
+theyahya
+Website:
+theyahya.com
+Email:
+yahya.arbabi@gmail.com
+Yahya
+SayadArbabi
+Page
+2
+of
+2","Yahya
+SayadArbabi
+Page",,,"['r', 'microservices', 'microservices', 'monitoring', 'microservices', 'microservices']"
+"Claus Steinau, M. A.
+Pentlinger Str. 5A, Pentling, 93080, Germany, +49 176 50301811, claus.steinau@gmail.com
+P R O F I L E Experienced in International Business Development Management with prime experience in leadership and a 
+proven track record in Design Thinking. I am committed to utilizing my skills to further the company mission, 
+and I have a proven ability to establish and maintain excellent communication and relationships within the 
+company and with clients.
+E M P L OY M E N T  H I S TO RY
+ Grant Consultant, Business Network Manager, RAS AG Regensburg
+•Organize and lead innovation networks like ""Building with paper"", ""Less micro-plastics in technical 
+textiles"", ""AI-driven individual learning in education and training"". 
+•Manage R&D projects: competitive analyses, bench marking, risk assessments, proposal editing for R&D 
+funding applications, marketing concepts.
+•Foster Information and Communication T echnologies in teams.
+Aug 2019 — Dec 2019 Product Owner Search Experience, Plan.One GmbH - Part of 
+Schüco International KGBielefeld
+•Led a team of five software engineers with SCRUM method to develop a customer journey for a target 
+group of architects.
+•Acquired key customers: product manufacturers and architects. Consulted with customers to understand 
+their vision and desires.
+•W orked independently and in a agile team to solve problems.
+Mar 2018 — Apr 2019 Business Development Manager, Key Account Manager, Cinector 
+GmbHMittweida
+•T ransformed a video tool into an authorizing tool for e-learning in the HR sector (SaaS).
+•Organized the participation in HR fairs in Germany and Austria.
+•Led Sales Representatives and at times trained and managed a team of 12 software engineers in sales for a 
+seasonal business.
+Dec 2014 — Feb 2018 International Projects, Marketing & Sales Manager, Lightglass 
+Technology GmbHVienna, Austria
+•Acquired partners and customers, accompanied international projects, conducted public relations work.
+•Built a brand and created awareness for Lightglass Smart Glass.
+Awards
+•2017 GPD, Pitch-Contest, 3rd Place, T ampere, Finland
+•2017 Architizer+ Award, 1st Place, Jury Winner, Building Products-Glazing Systems Products, New Y ork
+•2017 Audi / Osram Start-up Jam, 1st Place, Pitch-Contest, Berlin
+Oct 2011 — Apr 2013 COO, miniJOULE USA, Inc. - Part of GP JOULE GmbH San Francisco
+•Set up the subsidiary in the USA for the German solar company.
+•T rained an American technician in the parent company's procedures.
+•Designed the User Experience of website and online store.
+Jan 2010 — Present Business Designer, d-thinking Bad Eilsen
+•Organize and moderate external Design Thinking workshops.
+•Create awareness for the need to think user-centric at companies.
+Conceptualized and held Design Thinking training courses at:
+•Leuphana University of Lüneburg, Germany
+•Academy of Fashion and Design of Hamburg, Germany
+•Marmara University of Istanbul, Turkey
+•University of Passau, Germany
+•Bauhaus University of W eimar, Germany
+•Mittweida University of Applied Sciences, Germany
+•ESPOL Polytechnic University Guayaquil, Ecuador
+•d.school Stanford University, USAApr 2020 — Apr 2022Oct 2008 — Aug 2009 Research Assistant, Leuphana University Lüneburg
+•T aught and designed assessments in the real estate industry.
+•Carried out valuations for buildings.
+Oct 2008 — Aug 2009 Entrepreneur, Tea To Walk Hamm
+•Established the T ea T o W alk Company in collaboration with Asian House Himalaya as a shop-in-shop 
+concept.
+•Created a brand to launch a ""to-go"" innovation in tea.
+E D U C AT I O N
+Dec 2017 — Present Ph.D., Vienna University of Technology Vienna
+•Ph.D. Candidate in Architecture
+Apr 2011 — Jun 2011 d.school Stanford University Palo Alto
+•Successfully completed d.school Design Thinking training and afterwards trained other students in 
+""Virtual W ater Concept"" at the request of the school.
+Oct 2003 — Oct 2008 Magister Artium, Leuphana University Lüneburg
+•Major: Business Administration (Marketing, Human Resources), Language & Communication
+•Minor: Media & Public Relations
+•Thesis Grade: 1.00 (A)
+•Cumulative Grade: 1.68 (A-)
+Oct 1999 — Sep 2003 Westphalian Wilhelms-University Münster
+•Business Administration
+P R AC T I C A L  T R A I N I N G
+Aug 2001 — Sep 2001 Intern, Würth Industrie Service GmbH & Co. KG Bad Mergentheim
+•Recreated the internet presence in the Key Account Department.
+E X T R A - C U R R I C U L A R  AC T I V I T I E S
+Apr 2000 — Oct 2008 Tutor, LASSI/ AEGEE Lüneburg/Münster
+•Participated in student organizations as a tutor, accompanied incoming international students and 
+familiarized them with German culture.
+C I V I L  S E RV I C E
+Aug 1998 — Aug 1999 Patient Support Service, Minden Hospital Minden
+•Accompanied newly admitted patients.
+•Started as a protocolist, then promoted to an elected ombudsman; served as first point of contact for 60 
+community service workers at Minden Hospital, the most prominent social services center in the area.
+L A N G UAG E S German Native speaker
+English C2French B2
+Spanish A2
+C O M P U T E R  S K I L L S MS Office  – advanced 
+W ordPress – advanced
+Adobe Creative Cloud – intermediate
+HTML – intermediate",Adobe Creative Cloud,,,"['r', 'c', 'r', 'r', 'c', 'r', 'r', 'c', 'c', 'r']"
+"V i k t o rP a n a s i u k
+vitek.panasyuk@gmail.com
+S e n i o rJ a v aD e v e l o p e r
+Objective
+Result-driven
+professional
+java
+developer
+with
+10
+years
+of
+experience
+in 
+creating
+innovative
+and
+user-friendly
+web
+solutions
+for
+complex
+problems. 
+Equipped
+with
+a
+deep
+understanding
+of
+the
+technologies
+in
+back-end 
+development
+as
+well
+as
+the
+ability
+to
+collaborate
+effectively
+with
+team 
+members
+and
+clients.
+Education
+2003-2009
+National
+Technical
+University
+of
+Ukraine
+“KPI” 
+Faculty
+of
+Applied
+Mathematics
+Experience
+Bloomberg
+(Sprinterra)
+Senior
+Java
+Developer
+Nov
+2022
+-
+current
+(1
+year)
+●
+Enhanced
+and
+maintained
+the
+release
+process
+(Gradle,
+Kotlin
+DSL,
+Jenkins,
+Groovy,
+Docker,
+and
+Kubernetes)
+●
+Successfully
+reduced
+the
+release
+duration
+from
+2
+days
+to
+just
+several
+hours
+in
+cooperation
+with
+the
+team.
+Oracle
+Java
+Developer
+3
+Jan
+2022
+-
+Nov
+2022(7
+months)
+●
+Managed
+and
+maintained
+the
+Electron
+Client,
+incorporating
+Oxford's
+DNA
+processing
+tool
+for
+enhanced
+functionality(Node.js).
+●
+Took
+the
+initiative
+to
+enhance
+the
+codebase
+and
+increase
+quality
+coverage(Jasmine)
+SmartBear
+(Ciklum)
+Java
+Developer
+Feb
+2019
+-
+Jan
+2022(3
+year)
+●
+Creating
+code
+review
+tool
+""Collaborator""
+https://smartbear.com/product/collaborator/overview/
+●
+Developing
+document
+subsystem(Pdf,
+Docx),
+coveraged
+by
+integration
+tests
+●
+Bug
+fixing
+(memory
+leaks,
+complex
+cases)
+●
+Performance
+tuning
+(time
+of
+operation
+with
+document
+was
+decreased:
+~2x
+times
+for
+uploading,
+~2-3
+times
+for
+opening)
+●
+Developing
+difficult
+cases
+on
+GWT
+platform
+●
+Add
+support
+of
+Rational
+Doors
+documents(design
+and
+implementation
+subsystem)
+Epam
+Systems
+Java
+DeveloperApr
+2018
+-
+Dec
+2018
+(9
+months)
+●
+Creating
+and
+supporting
+API
+services
+for
+Screwfix
+E-Commerce
+system
+by
+using
+Oracle
+ATG
+10.1
+framework.
+●
+Analyzing
+problems
+and
+creating
+tasks
+for
+resolving
+them.
+●
+Migrating
+and
+supporting
+automated
+tests
+on
+Java
+8
+for
+API
+●
+Working
+in
+pair
+programming
+and
+code
+review
+sessions
+●
+Taking
+part
+in
+Epam
+JavaScript
+Mentoring
+Program
+Kyiv
+Playtech
+Java
+developer
+Jan
+2014
+-
+Jan
+2017
+(3
+years
+1
+months)
+●
+Games
+developing
+by
+using
+internal
+framework
+(based
+on
+PlayN)
+●
+Supporting
+internal
+adapter
+product
+between
+games
+and
+server
+●
+Developing
+web
+product
+for
+configuration
+and
+deployment
+of
+games
+(Integration
+with
+SVN,
+Jankins
+base
+on
+JSF
+with
+push
+messages)
+Vogster
+Entertainment
+Java
+Developer
+Aug
+2010
+-
+Jan
+2014
+(3
+years
+6
+months)
+●
+Creating
+the
+framework
+for
+connection
+Java
+server
+and
+OpenVista
+medicine
+database
+●
+Creating
+interactive
+web
+portal
+(based
+on
+GWT,
+JSF
+frameworks)
+for
+hospitals
+●
+Managing
+the
+development
+and
+QA
+process
+●
+Frameworks:
+JSF
+2.0
+(IceFaces),
+Hibernate,
+Spring,
+Spring
+Web
+Flow,
+GWT,
+JasperReport,
+Quartz,
+JDBC,
+SOAP
+Language
+knowledge
+●
+Ukrainian
+-
+native
+●
+English
+-
+upper-intermediate
+Soft
+skills
+●
+collaborated
+with
+the
+customer
+to
+establish
+requirements
+and 
+oversaw
+the
+implementation
+process
+as
+a
+team
+leader
+●
+experience
+in
+pair
+programming
+●
+experience
+in
+being
+a
+teacher
+for
+beginners
+●
+developing
+projects
+from
+scratch
+to
+launch
+into
+production
+with 
+positive
+feedback
+from
+users
+(Scrum,
+Agile,
+Waterfall)
+Technical
+skills
+●
+creating
+web
+projects
+using
+Spring,
+Hibernate,
+Gradle,
+Git, 
+Docker,
+Kubernates,
+Jenkins
+●
+familiar
+with
+JSF,
+JSP,
+SVN,
+Maven,
+GWT,
+TeamCity
+etc.
+●
+experience
+in
+automated
+testing
+using
+Selenium",Jenkins,,,"['r', 'selenium']"
+"Software	Support	Engineer	I	(Technical	Support	Specialist)	-	India 	 		About the role:   This is a role critical to the success of the IT operations team and reports to the Director of Technical Services.   Are you an experienced, passionate pioneer in technology? An industry solutions professional who wants to work in a collaborative environment? If you’re seeking a role that offers you the opportunity to work in a dynamic environment, this might be the perfect opportunity for you!   We’re currently seeking an Software Support Engineer I to join our IT team. As part of our IT team, you will provide support for the mission and be responsible for providing best-in-class technical support for both internal and external Actabl customers.  You will work closely with our InfoSec, DevOps, and Development services as we support our suite of products across the four Actabl Brands - Alice, Hotel Effectiveness, ProfitSword & Transcendent. This role is for a team player who is capable of understanding goals and delivering on them.    In this role you will be responsible for:  - Troubleshooting and resolving issues - Completing medium to long-term technical projects - Establish foundational knowledge our internal systems and products - Executing team initiatives in a timely and efficient manner. - Exhibit consistent improvements in ticket resolution time - Solid history of positive interactions with client and coworkers. - Identify technical skills that could benefit from additional training.  Develop a plan to upskill  - Write a personal one-page plan    What to accomplish to get an “A” in the first year: - Understand the Hospitality industry and our customer base - Ability to read and write SQL and C# statements to solve issues - Lead and execute any team projects and document the entire process - Cross-train with team members to learn about other parts of the system and to teach others - Make recommendations to improve technical support tools and processes - Receive positive feedback from team members and our customers   Must-have experience: • Bachelor’s degree in Computer Science, Engineering, or related degree and   1-2  years of knowledge and experience with SQL (any) and C# • Basic Knowledge of working with MS SQL, Visual Studio, GIT • Ability to identify the problem and solve • Familiarity with SCRUM/AGILE environment • The position requires excellent organizational skills with an emphasis on excellent verbal and clear written communication. • A positive attitude and willingness to take initiative. • You will be working with sensitive financial data and maintaining confidentiality is paramount. • An ability to work accurately and quickly under project deadlines. • Ability to operate computer hardware and to work with software applications. • Required interpersonal skills – cooperative, courteous, flexible, and good-natured. • Effective work skills – conscientious, persistent, resourceful, productive, and active. • Must have the ability to make decisions and judgments. • Must have the ability to exercise considerable judgment and discretion in establishing and maintaining good working relationships and deal with employees in an efficient and professional manner. • Able to work independently as well as in a team • Must have excellent customer service skills. • Ability to prioritize and balance multiple tasks and a commitment to meeting and exceeding deadlines and goals. • Passion for customer service and problem-solving.  	  About the company – Actabl:  Launched in 2022, from a combination of four industry-leading brands (Alice, Transcendent, ProfitSword, & Hotel Effectiveness), Actabl combines business and labor intelligence with a comprehensive operations platform.  Actabl is combining business and labor intelligence with a comprehensive operations platform. We give hoteliers insights to know what to prioritize, the tools to do it, and the visibility to know it worked.  Actabl’s 250+ data-rich integrations create a complete understanding of the business and outputs data-backed insights. Insights create actions that are operationalized in a comprehensive hotel operating platform. The operations platform provides visibility and accountability on execution and in turn, feeds data back into our BI platform. ",GIT • Ability,,,"['c', 'c']"
+" 
+  
+Hello,           
+Fatih KARAMAN  
+Şişli, İSTANBUL  
+(+90) 532 477 49 35  
+fhkaraman@outlook. com  
+Youtube :  https://bit.ly/3pIa9RN   
+Youtube : https://www.youtube.com/channel/UC6y7P8AosdPTbmlXEK7bLhA  
+Github : https://github.com/mrelectronst?tab=repositories  
+Linkedin:  https://bit.ly/3ky0hJf  
+GooglePlay :  https://play.google .com/store/apps/details?id=com.fkara.bluetooth_controller  
+Capabilities  
+C#, VB.Net, ASP.NetCore  
+Java, Spring, Hibernate  
+C, C++  
+MVC, Angular  
+JavaScript, Python  
+SQL, NoSQL(Mongo, Cassandra, ElasticSearch)  
+Microsoft Azure, RabbitMQ, Redis,  NHibernate  
+Microservices, Azure Functions, Serverless  
+Kubernetes, Docker  
+HTML, XML, CSS, JQUERY  
+Android Programming  
+2 
+Agile Methodology, POSTMAN, GIT  
+AVR, ARM, USB, UART, USART, I2C, SPI, CAN  
+Experience  
+September 2010 - December 2021  
+Air Force Command, Konya&Diyarbakır&Ankara  - Air Traffic Radar System Engineer  
+January 2021 - August 2021 (Consultant)  
+BinBin Scooter , İstanbul - Embedded System Engineer  
+January 2021 - March 2022  
+Aygaz ARGE, İstanbul - Full Stack Developer  
+April 2022 - Ongoing.  
+Domino's, Istanbul - Sr. Software Developer  
+ 
+   After graduating from the Ministry of National Defense University in 2010, I star ted to work 
+in the Air Force Electronic Information and Radar Systems / Air Traffic Control Radar Unit. 
+During my duty, I worked as Sr Software Developer and Team Lead in all stages of electronic 
+and software processes of 3 different (IFF, ASR, PAR) Radar systems and projects.  
+Afterwards, I expanded my work with Embedded Systems, Java and .Net Environments, 
+Mobile Applications, Web and Desktop Based Applications and Linux.  
+In addition, with many projects that I have carried out individually, Java, ASP .Net Core, 
+JavaScript, Angu lar, VB.NET, C, C++ and C#, Sql, NoSql etc. I am currently working on 
+increasing my command of languages.  
+In this process, I received trainings that every software developer should learn such as Clean 
+Code, Design Patterns, Microservice Architecture, Unit Testing. I developed myself in 
+applications such as Agile, Jira, Git.  
+Education  
+September 2008 - September 2010  
+Air Force Technical School, İzmir - Electronic Information and Radar Systems  
+September 2011 - September 2015  
+Anadolu University, Eskişehir - Econom ics 
+September 2015 - September 2022  
+Selçuk University, Konya - Electrical and Electronics Engineering  3 
+Projects  
+ 
+Web Applications  
+ 
+E-Commerce Applications  
+ 
+ERP Web and Desktop Applications  
+ 
+Mobile Applications  
+ 
+Windows Service Applications  
+ 
+IOT Systems  
+ 
+Urban micro -transportation Scooter Smart Vehicle Systems  
+ 
+Automation Software and User Interfaces  
+ 
+Remote Command Control Systems  
+ 
+Electric Vehicle Systems  
+ 
+3D Printer and CNC Router Systems  
+ 
+References  
+Ferhat Akar  - AYGAZ  - Team Lead Software Engineer  
+Yalçın Cengiz  - DOMINOS - Sr. Software Engineer  ",Software Engineer,,,"['c', 'c']"
+" 
+  
+Hello,           
+Fatih KARAMAN  
+Şişli, İSTANBUL  
+(+90) 532 477 49 35  
+fhkaraman@outlook. com  
+Youtube :  https://bit.ly/3pIa9RN   
+Youtube : https://www.youtube.com/channel/UC6y7P8AosdPTbmlXEK7bLhA  
+Github : https://github.com/mrelectronst?tab=repositories  
+Linkedin:  https://bit.ly/3ky0hJf  
+GooglePlay :  https://play.google .com/store/apps/details?id=com.fkara.bluetooth_controller  
+Capabilities  
+C#, VB.Net, ASP.NetCore  
+Java, Spring, Hibernate  
+C, C++  
+MVC, Angular  
+JavaScript, Python  
+SQL, NoSQL(Mongo, Cassandra, ElasticSearch)  
+Microsoft Azure, RabbitMQ, Redis,  NHibernate  
+Microservices, Azure Functions, Serverless  
+Kubernetes, Docker  
+HTML, XML, CSS, JQUERY  
+Android Programming  
+2 
+Agile Methodology, POSTMAN, GIT  
+AVR, ARM, USB, UART, USART, I2C, SPI, CAN  
+Experience  
+September 2010 - December 2021  
+Air Force Command, Konya&Diyarbakır&Ankara  - Air Traffic Radar System Engineer  
+January 2021 - August 2021 (Consultant)  
+BinBin Scooter , İstanbul - Embedded System Engineer  
+January 2021 - March 2022  
+Aygaz ARGE, İstanbul - Full Stack Developer  
+April 2022 - Ongoing.  
+Domino's, Istanbul - Sr. Software Developer  
+ 
+   After graduating from the Ministry of National Defense University in 2010, I star ted to work 
+in the Air Force Electronic Information and Radar Systems / Air Traffic Control Radar Unit. 
+During my duty, I worked as Sr Software Developer and Team Lead in all stages of electronic 
+and software processes of 3 different (IFF, ASR, PAR) Radar systems and projects.  
+Afterwards, I expanded my work with Embedded Systems, Java and .Net Environments, 
+Mobile Applications, Web and Desktop Based Applications and Linux.  
+In addition, with many projects that I have carried out individually, Java, ASP .Net Core, 
+JavaScript, Angu lar, VB.NET, C, C++ and C#, Sql, NoSql etc. I am currently working on 
+increasing my command of languages.  
+In this process, I received trainings that every software developer should learn such as Clean 
+Code, Design Patterns, Microservice Architecture, Unit Testing. I developed myself in 
+applications such as Agile, Jira, Git.  
+Education  
+September 2008 - September 2010  
+Air Force Technical School, İzmir - Electronic Information and Radar Systems  
+September 2011 - September 2015  
+Anadolu University, Eskişehir - Econom ics 
+September 2015 - September 2022  
+Selçuk University, Konya - Electrical and Electronics Engineering  3 
+Projects  
+ 
+Web Applications  
+ 
+E-Commerce Applications  
+ 
+ERP Web and Desktop Applications  
+ 
+Mobile Applications  
+ 
+Windows Service Applications  
+ 
+IOT Systems  
+ 
+Urban micro -transportation Scooter Smart Vehicle Systems  
+ 
+Automation Software and User Interfaces  
+ 
+Remote Command Control Systems  
+ 
+Electric Vehicle Systems  
+ 
+3D Printer and CNC Router Systems  
+ 
+References  
+Ferhat Akar  - AYGAZ  - Team Lead Software Engineer  
+Yalçın Cengiz  - DOMINOS - Sr. Software Engineer  ",Software Engineer,,,"['c', 'c']"
+"Prince Dhiman  
+250-879-0893  
+Prince33dhiman@gmail.com  
+http://www.linkedin.com/in/prince -dhiman  
+ 
+PROFESSIONAL SUMMARY  
+ 
+Dedicated Software Quality Assurance professional with 3 years of experience in IT with emphasis on improving the 
+quality of applications. High level of attention to detail with strong analytical and troubleshooting capabilities.  
+Adept in providing suggestions and solutions to improve the overall productivity  of product . 
+ 
+Responsibilities:  
+Involved in all phases of SDLC and STLC, including requirement gathering, test planning, execution, defect tracking, 
+and reporting.  Experience in testing methodologies like functional (UI and Backend Testing) and non -functional 
+testing.  
+Automation Exposure : 
+Specialization in designing automation test for Functional and regression testing activities. Experience in testing and 
+analysing web apps using:  
+ UI Testing: Selenium  with Java  and Cypress  (JS framework).  
+ Backend Automation: Postman , Rest -Assured using Java . 
+ CI Tools: GIT, Maven, Jenkins . 
+ Non-Functional Testing: JMeter . 
+ Bug Tracking Too ls: JIRA and TestRail . 
+ 
+ 
+PROFESSIONAL EXPERIENCE  
+ 
+QA Engineer  
+Prometheus Group  
+ 
+Project : Budgeting & Warranty  
+ Hamilton, ON   
+Jan 2022–Present   
+ Worked in agile methodology , worked on user stories discussed in Scrum meetings, and collaborated 
+with developers and project managers for quick and effective testing in a timely manner.  
+ Prepared test suite and detailed manual test cases for various forms of testing including Smoke,  
+Functional, regression, and performance Testing.  
+ Created thorough test sce narios for GUI and functionality testing of the web application and  
+involved in writing automated test cases using cypress framework.  
+ Involved in d esigning, develop ment , and implement ation of  Cypress automation testing framework  
+utilizing JavaScript, GIT as VCS, and Jenkins as CI tool.  
+ Used Jira to open the bugs  and Test Rail to update the test cases and worked with developers to 
+facilitate timely resolutions before the product is released.  
+ Generated the Mocha Report  and test summary report. Shared the rep orts with the QA management 
+to improve the QA processes.  
+ Performed API Testing by utilizing the Postman tool  and validated the response codes, body, and 
+schema.  
+ Performed non -functional testing - Load testing using JMeter and BlazeMeter and accessibility 
+testing for application using Lighthouse  plugin to monitor the audits for performance, accessibility, 
+and SEO.   Trained new hired associate  QA engineers and mentored them on assigned projects.  
+ 
+Accomplishments:  
+ Successful in designing, maintaining, and implementing the cypress frontend framework for 
+application.  
+ Successful in training and mentoring onshore and offshore QA engineers to write efficient  manual  
+test cases and converting those  test cases to automated  test cases.  
+ Scheduled Sharing & Learning’ knowledge sharing sessions to bridge the communication gaps 
+between the QA engineers and to increase the efficiency , which helped  to deliver the product on 
+release dates.  
+ Successful in implementation of Test Suite  Management strategy which made significant process 
+enhancement in achieving the goal of delivering multiple releases in a week.  
+Environment:  Visual Studio, Cypress, GIT, Jenkins, Test Rail, Confluence, Jira.  
+ 
+ 
+Quality Assurance Engineer  
+DCUBE Tech Ventures pvt ltd.  
+ 
+Project:  KYC - Know your customer is an integrated system created by Yes Bank for  
+all the customers managing their personal details, credit score, and reward redeems.  
+  
+Mohali , India  
+May 2017 - April 2019  
+ Analysed functional requirements of different modules of application and prepared test strategy for 
+application.  
+ Design and develop the test suite and test plan , identif ied test scenarios,  and created test cases for 
+manual testing.  
+ Identified test cases to automate and develop the automation test scripts using Selenium WebDriver 
+with Java.   
+ Developed new and updated existing Automation test cases using Selenium WebDriver and TestNG,  
+using Git as VCS for a Java based Web application, using Maven as build tool and Jenkins to create  
+and run deployment jobs.  
+ Worked Closely with Agile scrum team developers to sp eed up the debugging and ticket resolution 
+process and to ensure the product testability and delivery on release dates.  
+ Knowledge of REST webservices. Automated the API testing u sing Postman and Rest -Assured 
+library . 
+ Generated and documented the TestNg HTML reports on Confluence and provided the dashboard 
+status to management on QA activities of project . 
+Environment:  Windows, IntelliJ Idea, Java, Selenium WebDriver, TestNg, Maven, Jira . 
+ 
+ 
+ 
+ 
+EDUCATION  
+ 
+Thompson Rivers University – Kamloops, British Columbia  
+Master  Of Business Administration  | 
+  
+University Institute of Engineering & Technology - Chandigarh, Punjab  
+Bachelor of Technology in Electronics Engineering | 
+ 
+  SKILLS  
+ 
+ 
+ Programming Languages: Java, HTML, XML, JSON, JavaScript.  
+ UI Automation Framework: Selenium and Cypress  
+ Backend Automation Framework: Postman, Rest Assured  
+ Performance Testing: JMETER and Blaze meter  
+ Languages: Java, JavaScript, JSON.  
+ Databases: SQL, MYSQL.  
+ Continuous Integration Tools: GIT, Maven, Jenkins.  
+ Issue Management: JIRA and TestRail  
+ 
+ 
+ 
+ ",Jenkins,,,"['selenium', 'cypress', 'cypress', 'scrum', 'confluence', 'windows']"
+"Sarah
+Siqueira
+Full
+Stack
+WordPress 
+Developer
+Based
+in
+Brazil 
+sarahcosiqueira@gmail.com
+Relevant
+links: 
+sarahjobs.com
+github.com/sarahcssiqueira
+dev.to/sarahcssiqueira
+linkedin.com/in/sarahcssiqueira
+I
+am
+a
+full
+stack
+WordPress
+developer
+,
+open
+source
+enthusiast,
+with
+8+
+years
+of
+experience
+in
+web
+development.
+Experience
+which
+made
+me
+capable
+of
+quickly
+adapting
+to
+new
+technologies
+and
+frameworks
+and
+also
+made
+me
+understand
+that
+I
+will
+always
+be
+on
+a
+learning
+journey
+.
+Strengths
+and
+Skills
+●
+Experience
+with
+WordPress,
+PHP,
+JavaScript
+and
+CSS;
+●
+Clear
+understanding
+about
+WordPress
+hooks
+(actions
+and
+filters);
+●
+Experience
+building
+WordPress,
+themes
+WordPress
+plugins
+and
+Gutenberg
+Blocks;
+●
+Experience
+with
+WooCommerce
+and
+ACF
+Fields;
+●
+Experience
+with
+page
+builders
+like
+Elementor;
+●
+Understanding
+about
+object-oriented
+programming
+and
+concepts
+such
+Namespaces,
+Traits,
+Design
+Patterns,
+familiarity
+with
+PSR
+specifications;
+●
+Experience
+debugging
+using
+Xdebug;
+●
+Experience
+with
+PHPCS,
+Eslint,
+Stylelint;
+●
+Experience
+with
+WebPack;
+●
+Experience
+extending
+interfaces
+with
+React.js
+and
+Headless
+CMS;
+●
+Experience
+with
+WP-CLI;
+●
+Experience
+consuming
+REST
+APIs
+and
+understanding
+about
+the
+WordPress
+REST
+API;
+●
+Experience
+with
+Docker;
+●
+Experience
+CI/CD
+setting
+up
+workflows
+specific
+with
+Github
+Actions;
+●
+Experience
+with
+Composer
+for
+PHP,
+Node
+and
+package
+managers
+NPM;
+●
+Experience
+with
+Git
+for
+version
+control;
+●
+Experience
+with
+the
+LAMP
+(Linux,
+Apache,
+MySQL
+and
+PHP)
+stack;
+●
+Experience
+with
+migrations
+between
+servers,
+working
+with
+server
+management
+tools
+and
+processes
+such
+as
+cPanel,
+experience
+handling
+DNS
+records
+through
+CDNs
+like
+Cloudflare;
+●
+Experience
+with
+CSS
+preprocessors
+like
+SASS;Work
+Experience
+Olby ,
+USA
+-
+Full
+Stack
+WordPress
+Developer
+(Part-time)
+Sep
+2023
+-
+Present 
+Collaborate
+with
+designers,
+product
+managers,
+and
+other
+stakeholders;
+Develop,
+test
+and
+maintain
+the
+Wordpress
+website;
+Evaluate,
+install,
+configure,
+and
+manage
+WordPress
+plugins
+to
+extend
+website
+functionality,
+as
+well
+as
+maintain
+and
+update
+existing
+plugins;
+Conduct
+regular
+updates,
+backups,
+and
+maintenance
+tasks
+to
+ensure
+website
+stability,
+security,
+and
+performance;
+Identify
+and
+resolve
+WordPress-related
+issues,
+including
+compatibility
+problems,
+performance
+optimization,
+security
+vulnerabilities,
+and
+other
+technical
+challenges.
+RG
+para
+Pets®,
+Brazil
+-
+Founder
+&
+Full
+Stack
+Developer
+Feb
+2018
+-
+Present 
+Founded
+a
+pet
+IDs
+and
+tags
+e-commerce
+venture,
+amassing
+over
+5,000
+satisfied
+customers
+to
+date;
+Designed
+every
+aspect
+of
+the
+front-end
+experience,
+including
+screen
+layouts,
+color
+palettes,
+logos,
+element
+positioning,
+responsive
+layouts,
+and
+the
+clean
+aesthetic
+of
+crucial
+pages
+like
+the
+cart;
+Conceptualized,
+designed,
+and
+implemented
+an
+efficient
+pet
+registration
+system,
+accommodating
+more
+than
+3,000
+users,
+built
+using
+WordPress
+custom
+posts
+and
+custom
+fields;
+Executed
+a
+comprehensive
+server
+migration
+encompassing
+the
+database,
+front-end,
+and
+back-end
+components,
+achieving
+a
+remarkable
+30%
+reduction
+in
+costs
+while
+simultaneously
+enhancing
+website
+performance;
+Used
+phpMyAdmin
+to
+manage
+MySQL,
+including
+orders,
+products,
+and
+customized
+WordPress
+data;
+Built
+each
+stamp
+for
+the
+products
+available
+in
+the
+store,
+such
+as
+pet
+tags,
+using
+Adobe
+Photoshop
+and
+CorelDRAW;
+Utilized
+AWS,
+WordPress,
+WooCommerce,
+Elementor,
+SQL,
+MySQL,
+Headless
+CMS,
+HTML,
+CSS,
+React.js.
+Siqueoli,
+Brazil
+-
+WordPress
+Developer
+May
+2015
+-
+Jan
+2018 
+Completed
+over
+50
+projects,
+diligently
+engaging
+with
+potential
+clients
+to
+conceptualize
+project
+ideas,
+comprehend
+client
+requirements,
+and
+deliver
+solutions
+tailored
+to
+their
+budgets;
+Began
+as
+a
+WordPress
+plugin
+installer,
+but
+with
+the
+completion
+of
+over
+50
+websites,
+developed
+proficiency
+in
+PHP,
+MySQL,
+HTML,
+CSS,
+JavaScript,
+and
+in-depth
+WordPress
+expertise,
+encompassing
+WordPress
+Core,
+plugin
+creation,
+and
+theme
+development;
+Built
+websites
+catering
+to
+small
+businesses,
+including
+dentists
+and
+lawyers,
+among
+others
+Designed
+and
+developed
+more
+than
+10
+WordPress
+classic
+themes,
+thoughtfully
+designed
+to
+align
+with
+client
+budgets;Created
+custom
+WordPress
+plugins
+to
+enhance
+functionality
+as
+needed;
+Implemented
+cost-effective
+cloud
+server
+deployment
+strategies,
+such
+as
+DigitalOcean,
+resulting
+in
+cost
+reductions
+of
+up
+to
+80%
+in
+certain
+cases;
+Relied
+on
+traditional
+methods
+like
+FTP
+but
+later
+established
+automated
+workflows
+on
+GitHub,
+leveraging
+GitHub
+Actions
+for
+streamlined
+deployment
+processes;
+Utilized
+WordPress,
+PHP,
+SQL,
+MySQL,
+HTML,
+CSS,
+JavaScript,
+and
+GitHub
+Actions.
+Accounting
+Advisor
+Office,
+Brazil
+-
+Accountant
+Assistant
+Aug
+2011
+-
+Dec
+2014
+Navigated
+the
+realm
+of
+accounting
+routines,
+proficiently
+creating
+financial
+reports
+aimed
+at
+facilitating
+informed
+client
+decision-making;
+Worked
+in
+an
+environment
+marked
+by
+stringent
+deadlines,
+enhancing
+the
+invaluable
+skills
+of
+empathy
+and
+the
+ability
+to
+work
+under
+pressure;
+First
+contact
+with
+programming
+by
+realizing
+that
+I
+could
+automate
+tasks
+and
+resolving
+some
+issues
+with
+APIs
+integrations
+(back
+in
+a
+time
+I
+didn't
+even
+know
+exactly
+what
+an
+API
+was).
+Education
+Estácio
+de
+Sá
+University
+-
+Rio
+de
+Janeiro,Brazil
+Software
+Engineering
+Graduate
+Degree
+Feb
+2023
+-
+Jun
+2024
+UEL
+-
+State
+University
+of
+Londrina,
+Londrina-Brazil
+-
+Physics
+Bachelor
+Degree
+Feb
+2015
+-
+Dec
+2018
+(
+Six
+semesters
+completed
+)
+UNESPAR
+-
+State
+University
+of
+Paraná,
+Apucarana-Brazil
+-
+Graduate
+Degree
+on
+Financial
+and
+Accounting
+management
+Feb
+2013
+-
+Dec
+2014
+UNESPAR
+-
+State
+University
+of
+Paraná,
+Apucarana-Brazil
+-
+Accounting
+Bachelor
+Degree
+Feb
+2010
+-
+Dec
+2013
+Languages
+Portuguese
+-
+Native
+English
+-
+Fluent
+Spanish
+-
+Intermediary
+German
+-
+Basic",Paraná,,,"['css', 'mysql', 'aws']"
+"Claus Steinau, M. A.
+Pentlinger Str. 5A, Pentling, 93080, Germany, +49 176 50301811, claus.steinau@gmail.com
+P R O F I L E Experienced in International Business Development Management with prime experience in leadership and a 
+proven track record in Design Thinking. I am committed to utilizing my skills to further the company mission, 
+and I have a proven ability to establish and maintain excellent communication and relationships within the 
+company and with clients.
+E M P L OY M E N T  H I S TO RY
+ Grant Consultant, Business Network Manager, RAS AG Regensburg
+•Organize and lead innovation networks like ""Building with paper"", ""Less micro-plastics in technical 
+textiles"", ""AI-driven individual learning in education and training"". 
+•Manage R&D projects: competitive analyses, bench marking, risk assessments, proposal editing for R&D 
+funding applications, marketing concepts.
+•Foster Information and Communication T echnologies in teams.
+Aug 2019 — Dec 2019 Product Owner Search Experience, Plan.One GmbH - Part of 
+Schüco International KGBielefeld
+•Led a team of five software engineers with SCRUM method to develop a customer journey for a target 
+group of architects.
+•Acquired key customers: product manufacturers and architects. Consulted with customers to understand 
+their vision and desires.
+•W orked independently and in a agile team to solve problems.
+Mar 2018 — Apr 2019 Business Development Manager, Key Account Manager, Cinector 
+GmbHMittweida
+•T ransformed a video tool into an authorizing tool for e-learning in the HR sector (SaaS).
+•Organized the participation in HR fairs in Germany and Austria.
+•Led Sales Representatives and at times trained and managed a team of 12 software engineers in sales for a 
+seasonal business.
+Dec 2014 — Feb 2018 International Projects, Marketing & Sales Manager, Lightglass 
+Technology GmbHVienna, Austria
+•Acquired partners and customers, accompanied international projects, conducted public relations work.
+•Built a brand and created awareness for Lightglass Smart Glass.
+Awards
+•2017 GPD, Pitch-Contest, 3rd Place, T ampere, Finland
+•2017 Architizer+ Award, 1st Place, Jury Winner, Building Products-Glazing Systems Products, New Y ork
+•2017 Audi / Osram Start-up Jam, 1st Place, Pitch-Contest, Berlin
+Oct 2011 — Apr 2013 COO, miniJOULE USA, Inc. - Part of GP JOULE GmbH San Francisco
+•Set up the subsidiary in the USA for the German solar company.
+•T rained an American technician in the parent company's procedures.
+•Designed the User Experience of website and online store.
+Jan 2010 — Present Business Designer, d-thinking Bad Eilsen
+•Organize and moderate external Design Thinking workshops.
+•Create awareness for the need to think user-centric at companies.
+Conceptualized and held Design Thinking training courses at:
+•Leuphana University of Lüneburg, Germany
+•Academy of Fashion and Design of Hamburg, Germany
+•Marmara University of Istanbul, Turkey
+•University of Passau, Germany
+•Bauhaus University of W eimar, Germany
+•Mittweida University of Applied Sciences, Germany
+• ",Bad Eilsen,,,['r']
+OSCAR ALEJANDRO DE LA C RUZ TORRES  ,,,,[]
+.NET DEVELOPER   ,,,,[]
+Oscaralejandro. delacruztorres@gmail.com  ,,,,[]
++52 1 449 3524651  ,,,,[]
+I. Curricular Profile  ,,,,[]
+2016 in the Transact -SQL language.  ,Transact,,,[]
+● 4 years’ experience in ASP.NET MVC CORE NET CORE 2.0 and 3.0.  ,,,,[]
+II. School  ,,,,[]
+Grade : BACHELOR COMPUTER SYSTEMS ENGINEERING   ,,,,[]
+School : UNIVERSIDAD AUTONOMA DE AGUASCALIENTES  ,,,,[]
+Dates : JAN 2002 – DEC 2006  ,,,,[]
+III. Further Education  ,,,,[]
+Course  Institution  Date  ,,,,[]
+BACHELOR’S DEGREE ,,,,[]
+FINANCIAL MARKETS  UNIVERSITAT OBERTA ,,,,[]
+DE CATALUNYA  OCT 2009 – SEP ,,,,[]
+2011 ,,,,[]
+BACHELOR’S DEGREE ,,,,[]
+IN PUBLIC ,,,,[]
+ACCOUNTANT  TECNOLOGICO ,,,,[]
+UNIVERSITARIO DE ,,,,[]
+AGUASCALIENTES  SEP 2021 - DATE  ,,,,[]
+IV. Languages  ,,,,[]
+Language  %Conversation  %Reading  %Writing  ,,,,[]
+English  90 90 90 ,,,,[]
+V. Technical Knowledge  ,V. Technical Knowledge,,,[]
+VI. VI.        Industries of experience  ,,,,[]

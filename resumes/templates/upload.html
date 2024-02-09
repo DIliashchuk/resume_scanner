@@ -1,0 +1,31 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <title>Upload PDF</title>
+</head>
+<body>
+    <!-- Upload PDF Form -->
+    <div class="logo">
+        <img class="main-logo" src="{% static 'img/logo.png' %}" alt="logo" />
+    </div>
+    <form method="post" action="{% url 'upload_pdf' %}" enctype="multipart/form-data">
+        {% csrf_token %}
+        <label for="avatar">Choose a file from your computer:</label>
+        <input type="file" name="pdf_files" multiple>
+
+        <label for="file_type">Select file type:</label>
+        <select name="file_type" id="file_type">
+            <option value="cv">CV</option>
+            <option value="jd">JD</option>
+        </select>
+
+        <button type="submit" class="button" role="button">Upload</button>
+    </form>
+
+</body>
+</html>
